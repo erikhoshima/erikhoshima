@@ -1,7 +1,3 @@
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Erik
 =============================================================================================================================
 
@@ -23,6 +19,6 @@ Backend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/erikhoshima"><img src="https://github-readme-stats.vercel.app/api?username=erikhoshima&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="erikhoshima's GitHub stats" /></a>
+<a href="http://www.github.com/erikhoshima"><img src="https://github-readme-stats.vercel.app/api?username=erikhoshima&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=22272e&hide_border=true&show_icons=true" alt="erikhoshima's GitHub stats" /></a>
 
-<a href="http://www.github.com/erikhoshima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erikhoshima&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/erikhoshima"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erikhoshima&stroke=ffffff&background=22272e&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
